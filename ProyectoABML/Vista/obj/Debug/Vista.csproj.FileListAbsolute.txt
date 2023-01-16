@@ -11,3 +11,16 @@ C:\proyectos\ProyectoABML\ProyectoABML\Vista\obj\Debug\Vista.pdb
 C:\proyectos\ProyectoABML\ProyectoABML\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
 C:\proyectos\ProyectoABML\ProyectoABML\Vista\obj\Debug\Vista.AltaArticulo.resources
 C:\proyectos\ProyectoABML\ProyectoABML\Vista\obj\Debug\Vista.MDIParent1.resources
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\bin\Debug\Vista.exe.config
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\bin\Debug\Vista.exe
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\bin\Debug\Vista.pdb
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.AltaArticulo.resources
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.ProyectoABML.resources
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.MDIParent1.resources
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.exe
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.pdb
