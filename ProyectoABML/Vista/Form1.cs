@@ -17,5 +17,11 @@ namespace Vista
             InitializeComponent();
         }
 
+        private void articuloToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AltaArticulo irAltaArticulo = new AltaArticulo();
+            irAltaArticulo.Show();
+            this.Hide();
+        }
     }
 }

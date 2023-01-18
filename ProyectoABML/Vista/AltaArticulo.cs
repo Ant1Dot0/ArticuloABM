@@ -16,5 +16,12 @@ namespace Vista
         {
             InitializeComponent();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            ProyectoABML volver = new ProyectoABML();
+            volver.Show();
+            this.Close();
+        }
     }
 }
