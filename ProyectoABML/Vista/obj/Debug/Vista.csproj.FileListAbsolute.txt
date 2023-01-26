@@ -24,3 +24,10 @@ C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.csproj
 C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
 C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.exe
 C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.pdb
+C:\proyectos\ProyectoABML\ProyectoABML\Vista\bin\Debug\Dominio.dll
+C:\proyectos\ProyectoABML\ProyectoABML\Vista\bin\Debug\Dominio.pdb
+C:\proyectos\ProyectoABML\ProyectoABML\Vista\obj\Debug\Vista.ConsultaArticulo.resources
+C:\proyectos\ProyectoABML\ProyectoABML\Vista\obj\Debug\Vista.marca.resources
+C:\proyectos\ProyectoABML\ProyectoABML\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\proyectos\ProyectoABML\ProyectoABML\Vista\bin\Debug\Negocio.dll
+C:\proyectos\ProyectoABML\ProyectoABML\Vista\bin\Debug\Negocio.pdb

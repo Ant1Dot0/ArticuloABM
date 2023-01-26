@@ -1,0 +1,9 @@
+C:\proyectos\ProyectoABML\ProyectoABML\Negocio\bin\Debug\Negocio.dll
+C:\proyectos\ProyectoABML\ProyectoABML\Negocio\bin\Debug\Negocio.pdb
+C:\proyectos\ProyectoABML\ProyectoABML\Negocio\bin\Debug\Dominio.dll
+C:\proyectos\ProyectoABML\ProyectoABML\Negocio\bin\Debug\Dominio.pdb
+C:\proyectos\ProyectoABML\ProyectoABML\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\proyectos\ProyectoABML\ProyectoABML\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\proyectos\ProyectoABML\ProyectoABML\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\proyectos\ProyectoABML\ProyectoABML\Negocio\obj\Debug\Negocio.dll
+C:\proyectos\ProyectoABML\ProyectoABML\Negocio\obj\Debug\Negocio.pdb

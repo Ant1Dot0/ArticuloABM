@@ -64,7 +64,7 @@ namespace Vista
             // salirToolStripMenuItem
             // 
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-            this.salirToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(96, 22);
             this.salirToolStripMenuItem.Text = "Salir";
             // 
             // altasToolStripMenuItem
@@ -80,20 +80,20 @@ namespace Vista
             // articuloToolStripMenuItem
             // 
             this.articuloToolStripMenuItem.Name = "articuloToolStripMenuItem";
-            this.articuloToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.articuloToolStripMenuItem.Size = new System.Drawing.Size(121, 22);
             this.articuloToolStripMenuItem.Text = "Articulos";
             this.articuloToolStripMenuItem.Click += new System.EventHandler(this.articuloToolStripMenuItem_Click);
             // 
             // marcaToolStripMenuItem
             // 
             this.marcaToolStripMenuItem.Name = "marcaToolStripMenuItem";
-            this.marcaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.marcaToolStripMenuItem.Size = new System.Drawing.Size(121, 22);
             this.marcaToolStripMenuItem.Text = "Marcas";
             // 
             // lineaToolStripMenuItem
             // 
             this.lineaToolStripMenuItem.Name = "lineaToolStripMenuItem";
-            this.lineaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.lineaToolStripMenuItem.Size = new System.Drawing.Size(121, 22);
             this.lineaToolStripMenuItem.Text = "Linea";
             // 
             // consultaToolStripMenuItem
@@ -109,6 +109,7 @@ namespace Vista
             this.articulosToolStripMenuItem.Name = "articulosToolStripMenuItem";
             this.articulosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.articulosToolStripMenuItem.Text = "Articulos";
+            this.articulosToolStripMenuItem.Click += new System.EventHandler(this.articulosToolStripMenuItem_Click);
             // 
             // ProyectoABML
             // 

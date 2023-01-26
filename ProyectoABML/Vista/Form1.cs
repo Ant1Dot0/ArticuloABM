@@ -23,5 +23,11 @@ namespace Vista
             irAltaArticulo.Show();
             this.Hide();
         }
+
+        private void articulosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ConsultaArticulo consulta = new ConsultaArticulo();
+            consulta.ShowDialog();
+        }
     }
 }
