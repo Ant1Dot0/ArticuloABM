@@ -8,15 +8,18 @@ namespace Dominio
 {
     public class Linea
     {
-        int id { get; set; }
-        string codigo { get; set; }
-        string descripcion { get; set; }
+        public int id { get; set; }
+        public string codigo { get; set; }
+        public string descripcion { get; set; }
 
 
-        //edu la facilota
+        public override string ToString()
+        {
+            return ""+codigo;
+        }
 
-        
-        
+
+
 
     }
 }

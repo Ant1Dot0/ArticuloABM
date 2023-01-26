@@ -1,0 +1,6 @@
+C:\proyectos\ProyectoABML\ProyectoABML\Dominio\bin\Debug\Dominio.dll
+C:\proyectos\ProyectoABML\ProyectoABML\Dominio\bin\Debug\Dominio.pdb
+C:\proyectos\ProyectoABML\ProyectoABML\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\proyectos\ProyectoABML\ProyectoABML\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\proyectos\ProyectoABML\ProyectoABML\Dominio\obj\Debug\Dominio.dll
+C:\proyectos\ProyectoABML\ProyectoABML\Dominio\obj\Debug\Dominio.pdb
