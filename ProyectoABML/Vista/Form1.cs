@@ -29,5 +29,11 @@ namespace Vista
             ConsultaArticulo consulta = new ConsultaArticulo();
             consulta.ShowDialog();
         }
+
+        private void marcasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ConsultaMarca consulta = new ConsultaMarca();
+            consulta.ShowDialog();
+        }
     }
 }

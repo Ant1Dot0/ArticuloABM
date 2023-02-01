@@ -31,3 +31,11 @@ C:\proyectos\ProyectoABML\ProyectoABML\Vista\obj\Debug\Vista.marca.resources
 C:\proyectos\ProyectoABML\ProyectoABML\Vista\obj\Debug\Vista.csproj.CopyComplete
 C:\proyectos\ProyectoABML\ProyectoABML\Vista\bin\Debug\Negocio.dll
 C:\proyectos\ProyectoABML\ProyectoABML\Vista\bin\Debug\Negocio.pdb
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\bin\Debug\Dominio.dll
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\bin\Debug\Negocio.dll
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\bin\Debug\Dominio.pdb
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\bin\Debug\Negocio.pdb
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.ConsultaArticulo.resources
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.marca.resources
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\ruben\OneDrive\Escritorio\ABM\ProyectoABML\Vista\obj\Debug\Vista.ConsultaMarca.resources
